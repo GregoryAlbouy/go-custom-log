@@ -1,3 +1,6 @@
+![Go Report Card](https://goreportcard.com/badge/github.com/gregoryalbouy/go-custom-log)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/gregoryalbouy/go-custom-log)](https://pkg.go.dev/github.com/gregoryalbouy/go-custom-log)
+
 # go-custom-logger
 
 Go-custom-logger provides some helpers for quick debugging using stdout. Handy functions that formats a given data and label to the output and helpers simplifying the usage of colors.
