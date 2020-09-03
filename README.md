@@ -35,3 +35,8 @@ func getData(success bool) ([]interface{}, error) {
 ### Output
 
 ![stdout](./stdout.png)
+
+## Todo
+
+- log to file function
+- more colors
